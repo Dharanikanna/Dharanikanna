@@ -87,8 +87,6 @@ I'm Dharani Kanna, a passionated and self motivated person. Passionate about lea
   <img alt="Taleau" src ="https://img.shields.io/badge/Tableau-blue?logo=Tableau&logoColor=white">
 </p>
 
-<img  align="right" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanikanna" height="250px">
-
 #### Other Libraries, API's & Tools
    
 <p>
@@ -147,4 +145,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img  align="right" alt="Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanikanna" height="300px">
+
 -->
