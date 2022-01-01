@@ -1,7 +1,9 @@
 
-## Hi folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi folks  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# I'm Dharani Kanna <h2 align="center"><img src="https://github.com/Dharanikanna/Dharanikanna/blob/main/asset/baby.gif" width="250px" /> </h2>
+I'm Dharani Kanna, a passionated and self motivated person. Passionate about learning new technologies and working on creative projects. Favourite topics are Data science and Embedded system.
+
+<h2 align="center"><img src="https://github.com/Dharanikanna/Dharanikanna/blob/main/asset/baby.gif" width="250px" /> </h2>
 
 ![Visitors count](https://komarev.com/ghpvc/?username=Dharanikanna&labelColor=black&label=Profile+Views&color=33cc99)
 
@@ -10,6 +12,7 @@
 - 👨🏽‍🎓 Graduated as Electronics and Communication Engineer in Tamilnadu College of engineering.
 - 😲 I'm very enthusiastic to learn and work in the new technologies. Passionate about developing new ideas, POC and implementation of ideas.
 - 🤹🏽‍♂️ Handled challenging tasks and worked in critical situations in my past projects and internships, it was very helpful to focus tasks on any situation.
+- 😇 Open to help Begginers who passionate to learn and achieve.
 
 ## 📫 How to reach me
 
@@ -118,7 +121,7 @@
     <img alt="Automation" src="https://img.shields.io/badge/Automation-blue">
     <img alt="Wireless Sensor Network" src="https://img.shields.io/badge/-Wireless Sensor Network-blue">
     <img alt="App development" src="https://img.shields.io/badge/-App development-blue">
-    <img alt="Web App development" src="https://img.shields.io/badge/Web App development-blue">   
+    <img alt="MERN Stack" src="https://img.shields.io/badge/MERN Stack-blue">   
 </p>
 
 <!--
