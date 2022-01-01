@@ -24,6 +24,9 @@ I'm Dharani Kanna, a passionated and self motivated person. Passionate about lea
 [![Mail](https://img.shields.io/badge/-Mail-blue?logo=Gmail&logoColor=white)](mailto:dharanikanna1999@gmail.com)
 
 
+[![Download Resume](https://img.shields.io/badge/Download-Resume-green)](https://media-exp1.licdn.com/dms/document/C562DAQFVE9BoBupzqg/profile-treasury-document-pdf-analyzed/0/1635524767227?e=1641153600&v=beta&t=VqA7AOmX8q-2JYkmz-KOitY7RBJ8xbRGoZ9n4_mIKyQ)
+
+
 ## Technical Skills
 
 <img align="right" alt="GIF" src="https://github.com/Dharanikanna/Dharanikanna/blob/main/asset/coder.gif" width="400px" />
@@ -130,6 +133,8 @@ I'm Dharani Kanna, a passionated and self motivated person. Passionate about lea
 <p align="center">
     <img alt="GIF" src="https://github.com/Dharanikanna/Dharanikanna/blob/main/asset/developer-yoga.gif" width="300px" />
 </p>
+
+
 
 <!--
 
