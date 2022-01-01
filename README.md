@@ -22,7 +22,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Dharanikanna/Dharanikanna/blob/main/asset/coder.gif" width="400px" />
 
-### Programming Languages
+#### Programming Languages
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white">
@@ -34,7 +34,7 @@
 
 </p>
 
-### Web App Dev
+#### Web App Dev
 
 <p>
     <img alt="Express Js" src="https://img.shields.io/badge/-Express Js-blue?logo=express&logoColor=white">
@@ -44,16 +44,14 @@
 </p>
 
 
-### Application Dev
+#### Application Dev
 
 <p>
     <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white">
-
-
 </p>
 
 
-### Frameworks & Libraries
+#### Frameworks & Libraries
 
 <p>
     <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit_learn-blue?logo=scikit-learn&logoColor=white">
@@ -67,29 +65,61 @@
     <img alt="Plotly" src="https://img.shields.io/badge/Plotly-blue?logo=plotly&logoColor=white">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-blue?logo=OpenCV&logoColor=white">
     <img alt="Tesseract" src="https://img.shields.io/badge/Tesseract-blue?logo=OpenCV&logoColor=white">
-
 </p>
 
-### Dataase
+#### Database
 
 <p>
    <img alt="MySQL" src ="https://img.shields.io/badge/-MySql-blue?logo=mysql&logoColor=white">
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white">
 </p>
 
+#### Analytics & Visualization Tools
 
-### Other Libraries, API's & Tools
+<p>
+   <img alt="MS Excel" src ="https://img.shields.io/badge/-MS Excel-blue?logo=microsoftexcel&logoColor=white">
+  <img alt="Taleau" src ="https://img.shields.io/badge/Tableau-blue?logo=Tableau&logoColor=white">
+</p>
+
+#### Other Libraries, API's & Tools
    
 <p>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-blue?logo=Firebase&logoColor=white">
     <img alt="Json" src="https://img.shields.io/badge/JSON-blue?logo=json&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20Pages-blue?logo=github&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-blue?logo=github&logoColor=white">
+    <img alt="Canva" src="https://img.shields.io/badge/-Canva-blue?logo=canva&logoColor=white">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-blue?logo=heroku&logoColor=white">
     <img alt="Twilio" src="https://img.shields.io/badge/-Twilio-blue?logo=twilio&logoColor=white">
     <img alt="Ngrok" src="https://img.shields.io/badge/-Ngrok-blue?logo=ngrok&logoColor=white">
+    <img alt="Matlab" src="https://img.shields.io/badge/-Matlab-blue?logo=matlab&logoColor=white">
+    <img alt="Mulesoft" src="https://img.shields.io/badge/-Mulesoft-blue?logo=Mulesoft&logoColor=white">
+
+    
 
 </p>
 
+#### Embedded Development Skills & Tools
+
+<p>
+    <img alt="Arduino" src="https://img.shields.io/badge/Arduino-blue?logo=Arduino&logoColor=white">
+    <img alt="Raspberry pi" src="https://img.shields.io/badge/Raspberry pi-blue?logo=raspberrypi&logoColor=white">
+    <img alt="Esp8266" src="https://img.shields.io/badge/Esp8266-blue?logo=Arduino&logoColor=white">
+    <img alt="Embedded C" src="https://img.shields.io/badge/Embedded C-blue?logo=c&logoColor=white">
+    <img alt="Arty A7-100" src="https://img.shields.io/badge/Arty A7-100-blue">
+</p>
+
+#### Passionated Technologies
+
+<p>
+    <img alt="Machine Learning" src="https://img.shields.io/badge/Machine Learning-blue">
+    <img alt="Data Science" src="https://img.shields.io/badge/Data Science-blue">
+    <img alt="Deep learning" src="https://img.shields.io/badge/-Deep learning-blue">
+    <img alt="IoT" src="https://img.shields.io/badge/IoT-blue">
+    <img alt="Automation" src="https://img.shields.io/badge/Automation-blue">
+    <img alt="Wireless Sensor Network" src="https://img.shields.io/badge/-Wireless Sensor Network-blue">
+    <img alt="App development" src="https://img.shields.io/badge/-App development-blue">
+    <img alt="Web App development" src="https://img.shields.io/badge/Web App development-blue">   
+</p>
 
 <!--
 **Dharanikanna/Dharanikanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
