@@ -24,8 +24,8 @@ I'm Dharani Kanna, a passionated and self motivated person. Passionate about lea
 [![Mail](https://img.shields.io/badge/-Mail-blue?logo=Gmail&logoColor=white)](mailto:dharanikanna1999@gmail.com)
 
 
-[![Download Resume](https://img.shields.io/badge/Download-Resume-green)](https://dharanikanna.github.io/Host/DHARANI_KANNA_K_V_RESUME.pdf)
-
+[![Download Resume](https://img.shields.io/badge/Download-Resume-blue)](https://dharanikanna.github.io/Host/DHARANI_KANNA_K_V_RESUME.pdf)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue)](https://dharanikanna.github.io/)
 
 ## Technical Skills
 
