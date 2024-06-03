@@ -9,10 +9,10 @@ I'm Dharani Kanna, a passionated and self motivated person. Passionate about lea
 
 # About
 
-- 👨🏽‍🎓 Graduated as Electronics and Communication Engineer in Tamilnadu College of engineering.
-- 😲 I'm very enthusiastic to learn and work in the new technologies. Passionate about developing new ideas, POC and implementation of ideas.
-- 🤹🏽‍♂️ Handled challenging tasks and worked in critical situations in my past projects and internships, it was very helpful to focus tasks on any situation.
-- 😇 Open to help Begginers who passionate to learn and achieve.
+- 🎓 Graduated with a degree in Electronics and Communication Engineering from Tamilnadu College of Engineering.
+- 😲 Highly enthusiastic about learning and working with new technologies, with a strong passion for developing innovative ideas, proof of concepts, and their implementation.
+- 🤹🏽‍♂️ Experienced in managing challenging tasks and working under critical situations in previous projects and internships, enhancing my ability to maintain focus and deliver results in any circumstance.
+- 😇 Committed to mentoring and supporting beginners who are passionate about learning and achieving their goals.
 
 
 [![DharaniKanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharanikanna&show_icons=true)](https://github.com/Dharanikanna)
@@ -127,8 +127,6 @@ I'm Dharani Kanna, a passionated and self motivated person. Passionate about lea
     <img alt="App development" src="https://img.shields.io/badge/-App development-blue">
     <img alt="MERN Stack" src="https://img.shields.io/badge/MERN Stack-blue">   
 </p>
-
-<img width="95%" src="https://activity-graph.herokuapp.com/graph?username=Dharanikanna&theme=github&area=true"/>
 
 <p align="center">
     <img alt="GIF" src="https://github.com/Dharanikanna/Dharanikanna/blob/main/asset/developer-yoga.gif" width="300px" />
